@@ -2,7 +2,8 @@
 <img width="1208" alt="Screenshot 2023-06-28 at 10 57 14" src="https://github.com/matea-nikolac/insta-forked/assets/62067357/f0e31045-0679-44d1-bfc4-660201fb1519">
 
 ## Description
-The goal of this project was to create a simplified version of an Instagram-like app using the MERN (MongoDB, Express.js, React, Node.js) stack.
+This was my third project for the General Assembly's Software Engineering Immersive course. The goal of the project was to create a simplified version of an Instagram-like app using the MERN (MongoDB, Express.js, React, Node.js) stack.
+
 ## Deployment link
 https://instasham-project.herokuapp.com/
 
