@@ -32,8 +32,8 @@ This project was a collaborative team effort with three members: Giorgia Mineo, 
 * Bootstrap
 
 ## Brief
-Here are the technical requirements for the project:
 
+#### Requirements
 * Build a full-stack application by making your own backend and your own front-end
 * Use an Express API to serve your data from a Mongo database
 * Consume your API with a separate front-end built with React
@@ -121,8 +121,6 @@ The project was executed smoothly with minimal challenges, thanks to the outstan
 The project was a great success! Our team collaborated exceptionally well, resulting in a fully functional app with a strong backend and a beautiful frontend design that looks clean and polished.
 
 ## Key Takeaways
-These are the key learnings from the project:
-
 * Daily standups were highly beneficial for our team as they allowed us to support each other, brainstorm ideas and celebrate achievements.
 * Trello proved to be a valuable tool for managing our workload, keeping track of tasks, and getting an overview of the project's overall progress.
 * Through this project, we gained confidence in developing a complete application with CRUD (Create, Read, Update, Delete) functionalities.
@@ -131,8 +129,6 @@ These are the key learnings from the project:
 No significant bugs were identified during the project.
 
 ## Future Improvements
-Some potential future improvements for the project are:
-
 * Adding a like button for posts
 * Ordering the home feed based on the number of likes
 * Implementing the ability to edit or delete comments
