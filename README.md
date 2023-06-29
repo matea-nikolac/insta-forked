@@ -20,7 +20,15 @@ To set up the project, follow these steps:
 This project was a collaborative team effort with three members: Giorgia Mineo, James Nellist, and myself. It was completed within a timeframe of 1.5 weeks.
 
 ## Technologies Used
-React, JSX, Axios, SASS, Bootstrap, Node, Express, MongoDB, Mongoose
+* React
+* JSX
+* Axios
+* Node
+* Express
+* MongoDB
+* Mongoose
+* SASS
+* Bootstrap
 
 ## Brief
 * Build a full-stack application by making your own backend and your own front-end
