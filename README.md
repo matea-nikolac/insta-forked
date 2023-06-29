@@ -32,6 +32,8 @@ This project was a collaborative team effort with three members: Giorgia Mineo, 
 * Bootstrap
 
 ## Brief
+Here are the technical requirements for the project:
+
 * Build a full-stack application by making your own backend and your own front-end
 * Use an Express API to serve your data from a Mongo database
 * Consume your API with a separate front-end built with React
