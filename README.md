@@ -84,9 +84,11 @@ Additionaly, I created a script that seeds the database with initial data. The s
 I implemented user authentication functionality in the project. This includes route handlers for user registration and login. 
 
 The `registerUser` handler creates a new user based on the provided data and returns a JSON response with a welcome message. 
+
 ![Screenshot 2023-06-29 at 14 18 30](https://github.com/matea-nikolac/insta-forked/assets/62067357/84fc0a6e-1d6d-4edb-bf35-43a85d006259)
 
 The `loginUser` handler validates the user's credentials, generates a JSON Web Token (JWT) for authentication, and sends it as a response along with a welcome message upon successful login. 
+
 ![Screenshot 2023-06-29 at 14 18 57](https://github.com/matea-nikolac/insta-forked/assets/62067357/41b3b7e2-5d12-4cbd-8103-5e6a30653a2c)
 
 These features enhance the project's security and user experience by allowing users to register, log in, and receive authentication tokens for accessing protected routes.
@@ -108,7 +110,7 @@ I proceeded with creating the auth.js file, which contains functions related to 
 
 ![Screenshot 2023-06-29 at 16 15 57](https://github.com/matea-nikolac/insta-forked/assets/62067357/991ba226-fc5d-482b-b31a-36306400bc5a)
 
-At the final stages of the project, I added two components to enhance the user experience. The `PageNotFound` component displays a "Page Not Found" message when a user navigates to a non-existent page. The `SpinnerComponent` displays a loading spinner while the app fetches data or performs tasks. 
+In the final stages of the project, I added two components to enhance the user experience. The `PageNotFound` component displays a "Page Not Found" message when a user navigates to a non-existent page. The `SpinnerComponent` displays a loading spinner while the app fetches data or performs tasks. 
 
 Additionally, I created content for the app by sourcing images from Pinterest and generating captions using ChatGPT. Finally, I collaborated with teammates to address any remaining issues, such as bug fixes and ensuring proper synchronization between components.
 
@@ -136,4 +138,3 @@ Some potential future improvements for the project are:
 * Implementing the ability to edit or delete comments
 * Enhancing the navigation bar by replacing text with icons
 * Allowing users to add a location to their posts
-
